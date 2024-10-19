@@ -82,9 +82,9 @@
 
 | Курсы                                                              | Дата              |
 | -------------------------------------------------------------------| :---------------: |
-|https://rusau.net/qa-from-scratch/](Функциональное тестирование ПО  | 08/2024 - 10/2024 |
-|https://stepik.org/course/171826/syllabus/](Тестирование ПО с нуля  | 01/2024 - 04/2024 |
-|https://stepik.org/course/198019/syllabus/](Postman-ниндзя c нуля   | 06/2024           |
+|https://stepik.org/course/171826/syllabus/ Тестирование ПО с нуля   | 01/2024 - 04/2024 |
+|https://stepik.org/course/198019/syllabus/ Postman-ниндзя c нуля    |     06/2024       | 
+|https://rusau.net/qa-from-scratch/ Функциональное тестирование ПО   | 08/2024 - 10/2024 |
 
 
  <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=LudaKul)-->
