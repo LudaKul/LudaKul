@@ -7,6 +7,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/7938/7938341.png" width="30" height="30" alt="cdn-icons-png"> Ваша уверенность в продукте - моя награда! <img src="https://cdn-icons-png.flaticon.com/512/7938/7938341.png" width="30" height="30" alt="cdn-icons-png">
 </div>
 
+
+### Почитай еще обо мне в 📁 [резюме]() 📁
+
 ---
 
 ### 🛠 Инструменты: 
