@@ -8,7 +8,7 @@
 </div>
 
 
-### Почитай еще обо мне в 📁 [резюме](https://github.com/LudaKul/LudaKul/blob/main/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%2C%20%D0%9A%D1%83%D0%BB%D1%8B%D0%B1%D0%B0.docm) 📁
+### Почитай еще обо мне в 📁 [резюме](https://drive.google.com/file/d/1u0brmxQir75-7eEN-khYQzPJhYANOTS0/view?usp=sharing) 📁
 
 ---
 
