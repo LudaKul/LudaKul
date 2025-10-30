@@ -4,7 +4,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2989/2989364.png" alt="Описание" width="60" /> Я тестировщик. И я верю, что качество - это не просто цель, а процесс, в котором важны детали. Каждый найденный баг - это шанс сделать продукт лучше, а каждый тест - возможность внести вклад в успех команды. Создавая надежные решения, мы облегчаем жизнь людям.
 </div>
 <div style="float: left; margin: 0 15px 15px 0;">
-<img src="https://cdn-icons-png.flaticon.com/512/7938/7938341.png" width="30" height="30" alt="cdn-icons-png"> Ваша уверенность в продукте - моя награда! <img src="https://cdn-icons-png.flaticon.com/512/7938/7938341.png" width="30" height="30" alt="cdn-icons-png">
+
 </div>
 
 
