@@ -8,7 +8,7 @@
 </div>
 
 
-### Почитай еще обо мне в 📁 [резюме](https://drive.google.com/file/d/1u0brmxQir75-7eEN-khYQzPJhYANOTS0/view?usp=sharing) 📁
+### Почитай еще обо мне в 📁 [резюме](https://drive.google.com/file/d/1b_omr3kEmMamTeKtvhA1uili47aHS6Nl/view?usp=drive_link) 📁
 
 --- 
 
