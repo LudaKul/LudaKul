@@ -61,7 +61,7 @@
 <h3 align="center"> Посмотри, что я умею и напиши мне! </h3>
 
 <div id="badges" align="center">
-    <a href="www.linkedin.com/in/ludmila-kulyba-756470320" target="blank">
+    <a href="https://www.linkedin.com/in/lyudmila-kulyba/" target="blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="mailto:kulybaluda.92@gmail.com" target="blank">
@@ -73,9 +73,7 @@
   </div>
 
   
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LudaKul" alt="Visitor Badge"/>
-</div>
+
 
 
 
